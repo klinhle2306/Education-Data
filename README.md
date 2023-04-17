@@ -1,4 +1,4 @@
-# Education-Data
+# Education Inequality
 DATA 3320 Class Project
 
 1. Desciption: This project utilizes two data sets. The main data set is the EdGap data set from [EdGap.org](https://www.edgap.org/#5/37.875/-96.987). This data set from 2016 includes the average ACT or SAT scores and its socioeconomic characteristics of the school district. The secondary data set includes the basic information about each school from the [National Center for Education Statistics](https://nces.ed.gov/ccd/pubschuniv.asp).
